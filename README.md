@@ -61,16 +61,3 @@ for i, n_h in enumerate(hidden_layer_sizes):
 - Try **L1** and **L2** regularization to reduce overfitting.
 
 ---
-
-## **Submission Instructions**
-
-1. Create a GitHub repository for **Lab 2 submission**.
-2. **Exercise 1** – Export the modified notebook as `.ipynb` and upload to the repository.
-3. **Exercise 2** – Export the modified notebook as `.ipynb` and upload to the repository.  
-   - Include your answers to the questions in a **text file** in the same repository.
-4. **Exercise 3** – Export the modified notebook as `.ipynb` and upload to the repository.
-5. Add the **repository link** to a text file named with your **registration number**.
-6. Upload the text file to the **Lab 2 submission link**.
-7. Ensure **results are visible** in the notebooks.
-
----
